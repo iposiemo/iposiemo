@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 
 
-###Extras
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+#Extras
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true)
 ## 2. Most Used Languages
@@ -45,5 +44,3 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=paulnyabaro)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/paulnyabaro/paulnyabaro)
