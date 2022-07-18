@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green)
 ## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=paulnyabaro)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/paulnyabaro/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/paulnyabaro/paulnyabaro)
