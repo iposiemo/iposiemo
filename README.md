@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 ## 2. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com//paulnyabaro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/paulnyabaro&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green) -->
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
