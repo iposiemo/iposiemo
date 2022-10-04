@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 2. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green) -->
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
 ## 4. Random Joke Generator
