@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 #Extras
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=paulnyabaro&theme=dark)](https://git.io/streak-stats)
 ## 2. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green) -->
