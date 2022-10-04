@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 #Extras
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=blue-green)
 ## 3. Contributors Badge
