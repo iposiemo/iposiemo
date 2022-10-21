@@ -1,21 +1,22 @@
 
-<!--
-**paulnyabaro/paulnyabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**paulnyabaro/paulnyabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+### Summary about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my backend skills
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on Opensource
+- 💬 Ask me about CSS and design
+- 📫 How to reach me: use my email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love CSS 😄
+
+<!-- - 🤔 I’m looking for help with -->
 
 
-[![Paul's GitHub Banner](./assets/banner.jpg)](https://paulnyabaro.com)
+
+
+<!--[![Paul's GitHub Banner](./assets/banner.jpg)](https://paulnyabaro.com)-->
 
 ### Follow me on 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paulnyabaro11)
