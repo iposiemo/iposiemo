@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Opensource
 - 💬 Ask me about CSS and design
-- 📫 How to reach me: use my email (paulnyabaro1@gmail.com)
+<!-- - 📫 How to reach me: use my email (paulnyabaro1@gmail.com)-->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love CSS 😄
 
