@@ -6,9 +6,11 @@
 - 🔭 I’m currently working on my backend skills
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Opensource
-- 💬 Ask me about CSS and design
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love CSS 😄
+
+
+<!-- - 💬 Ask me about CSS and design -->
+<!-- - ⚡ Fun fact: I love CSS 😄 -->
 
 <!-- - 📫 How to reach me: use my email (paulnyabaro1@gmail.com)-->
 <!-- - 🤔 I’m looking for help with -->
