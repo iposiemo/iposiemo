@@ -38,7 +38,7 @@
 
 #Extras
 ## 1. GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark"/>
 
 ## 2. Total Contributions and Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulnyabaro&theme=dark)](https://git.io/streak-stats)
