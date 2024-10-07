@@ -38,10 +38,7 @@
 
 #Extras
 ## 1. GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=chartreuse-dark)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark" align="left"/>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=dark)
