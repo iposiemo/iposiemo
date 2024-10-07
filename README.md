@@ -54,9 +54,7 @@
 <a href="https://komarev.com/ghpvc/?username=paulnyabaro">
     <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
 </a>
-
 <a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br />
 
 [![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulnyabaro)](https://github.com/paulnyabaro/github-readme-activity-graph)
