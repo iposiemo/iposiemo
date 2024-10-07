@@ -40,8 +40,6 @@
 ## 1. GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark" align="left"/>
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=dark)
 ## 2. Total Contributions and Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulnyabaro&theme=dark)](https://git.io/streak-stats)
 ## 3. Most Used Languages
@@ -52,3 +50,15 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 6. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=paulnyabaro)
+
+## ❤ Views and Followers
+
+<a href="https://komarev.com/ghpvc/?username=paulnyabaro">
+    <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
+</a>
+<a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a>
+<br>
+
+[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulnyabaro)](https://github.com/paulnyabaro/github-readme-activity-graph)
