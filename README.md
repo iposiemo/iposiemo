@@ -48,16 +48,15 @@
 ![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
 ## 5. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 6. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=paulnyabaro)
 
-## ❤ Views and Followers
+## 6 Views and Followers
 
 <a href="https://komarev.com/ghpvc/?username=paulnyabaro">
     <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
 </a>
+
 <a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
+<br />
 
 [![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulnyabaro)](https://github.com/paulnyabaro/github-readme-activity-graph)
