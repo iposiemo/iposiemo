@@ -59,15 +59,3 @@
 
 [![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulnyabaro)](https://github.com/paulnyabaro/github-readme-activity-graph)
 
-## 7 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-Kotlin            13 hrs 55 mins  ██████████▓░░░░░░░░░░░░░░   42.73 %
-XML               8 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-PHP               5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Bash              1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-SQL               1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-```
-
-<!--END_SECTION:waka-->
