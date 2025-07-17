@@ -1,5 +1,5 @@
 
-<!--**paulnyabaro/paulnyabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**iposiemo/iposiemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Summary about me
 
@@ -12,16 +12,16 @@
 <!-- - 💬 Ask me about CSS and design -->
 <!-- - ⚡ Fun fact: I love CSS 😄 -->
 
-<!-- - 📫 How to reach me: use my email (paulnyabaro1@gmail.com)-->
+<!-- - 📫 How to reach me: use my email (iposiemo@gmail.com)-->
 <!-- - 🤔 I’m looking for help with -->
 
 
 
 
-<!--[![Paul's GitHub Banner](./assets/banner.jpg)](https://paulnyabaro.com)-->
+<!--[![Paul's GitHub Banner](./assets/banner.jpg)](https://iposiemo.com)-->
 
 ### Follow me on 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iposiemo)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/iposiemo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paul-nyabaro-35433114a/)
 
 
@@ -58,4 +58,3 @@
 
 
 [![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/iposiemo/github-readme-activity-graph)
-
