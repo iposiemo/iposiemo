@@ -45,7 +45,7 @@
 ## 3. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 4. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
+![Your Repository's Stats](https://contrib.rocks/image?repo=iposiemo/iposiemo)
 ## 5. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -57,5 +57,5 @@
 <a href="https://img.shields.io/github/followers/iposiemo"><img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/paulnyabaro/github-readme-activity-graph)
+[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/iposiemo/github-readme-activity-graph)
 
