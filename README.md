@@ -21,7 +21,7 @@
 <!--[![Paul's GitHub Banner](./assets/banner.jpg)](https://paulnyabaro.com)-->
 
 ### Follow me on 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paulnyabaro11)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iposiemo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paul-nyabaro-35433114a/)
 
 
@@ -38,12 +38,12 @@
 
 #Extras
 ## 1. GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iposiemo&show_icons=true&theme=chartreuse-dark"/>
 
 ## 2. Total Contributions and Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=paulnyabaro&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iposiemo&theme=dark)](https://git.io/streak-stats)
 ## 3. Most Used Languages
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 4. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
 ## 5. Random Joke Generator
@@ -51,11 +51,11 @@
 
 ## 6 Views and Followers
 
-<a href="https://komarev.com/ghpvc/?username=paulnyabaro">
-    <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
+<a href="https://komarev.com/ghpvc/?username=iposiemo">
+    <img src="https://komarev.com/ghpvc/?username=iposiemo">
 </a>
-<a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://img.shields.io/github/followers/iposiemo"><img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulnyabaro)](https://github.com/paulnyabaro/github-readme-activity-graph)
+[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/paulnyabaro/github-readme-activity-graph)
 
