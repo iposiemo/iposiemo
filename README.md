@@ -54,13 +54,11 @@
 
 ## 6 Views and Followers
 
-<a href="https://komarev.com/ghpvc/?username=iposiemo">
-    <img src="https://komarev.com/ghpvc/?username=iposiemo">
-</a>
-<a href="https://img.shields.io/github/followers/iposiemo"><img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=iposiemo">
+<img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge">
 
+<img alt="iposiemo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iposiemo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 
