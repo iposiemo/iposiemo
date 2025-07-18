@@ -43,8 +43,8 @@
 </a>
 
 ## 2. Total Contributions and Streak
-<a href="https://github-readme-streak-stats-eight.vercel.app/" target="_blank">
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=&theme=dark&hide_border=true&short_numbers=true&excludeDaysLabel=EB5454&background=45%2C3B1515%2C252BEB52)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=iposiemo&theme=dark&hide_border=true&short_numbers=true&excludeDaysLabel=EB5454&background=45%2C3B1515%2C252BEB52" alt="GitHub Streak" />
 </a>
 
 ## 3. Most Used Languages
