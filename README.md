@@ -38,14 +38,17 @@
 
 #Extras
 ## 1. GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=iposiemo&show_icons=true&theme=chartreuse-dark"/>
+<img alt="iposiemo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iposiemo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 ## 2. Total Contributions and Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iposiemo&theme=dark)](https://git.io/streak-stats)
+<img alt="iposiemo's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iposiemo&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+
 ## 3. Most Used Languages
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img alt="iposiemo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+
 ## 4. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=iposiemo/iposiemo)
+
 ## 5. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -58,34 +61,6 @@
 
 
 [![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-<h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iposiemo's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iposiemo&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="iposiemo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iposiemo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="iposiemo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   
 
