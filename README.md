@@ -57,7 +57,8 @@
 <a href="https://img.shields.io/github/followers/iposiemo"><img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/iposiemo/github-readme-activity-graph)
+[![Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iposiemo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
@@ -69,7 +70,7 @@
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iposiemo's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iposiemo&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -86,7 +87,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iposiemo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iposiemo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
 
 
 
